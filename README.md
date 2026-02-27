@@ -50,3 +50,13 @@ If you already have a valid lyrics.txt and a valid synced.json (generated from s
 Dont use this to publish fake lyrics or slurs or bad things onto random songs, be nice, i dont want to have to take this repo down
 I've published a total of like 6 or 7 (hilarious) songs onto lrclib and its fun. so be nice
 
+
+
+# Original LRCLIB 
+lrclib created and contributed to by:
+@tranxuanthang
+@DataM0del
+@jodacame
+@MJWcodr
+
+Thanks
