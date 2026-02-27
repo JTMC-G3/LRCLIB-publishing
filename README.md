@@ -44,3 +44,9 @@ If you already have a valid lyrics.txt and a valid synced.json (generated from s
 3. Run publish.py and wait,
 4. Now retrieve your lyrics in whatever means necessary, i have provided a search.py to check if its published correctly, though since im lazy the synced lyrics dont get retrieved but "Has Synced Lyrics" will be true
 
+
+# Be a good person
+
+Dont use this to publish fake lyrics or slurs or bad things onto random songs, be nice, i dont want to have to take this repo down
+I've published a total of like 6 or 7 (hilarious) songs onto lrclib and its fun. so be nice
+
