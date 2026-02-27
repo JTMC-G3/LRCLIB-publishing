@@ -54,7 +54,7 @@ I've published a total of like 6 or 7 (hilarious) songs onto lrclib and its fun.
 
 # Original LRCLIB 
 lrclib created and contributed to by:
-@tranxuanthing
+@tranxuanthang
 @DataM0del
 @jodacame
 @MJWcodr
